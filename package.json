@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jxbeto.lwc-l4uvsajm",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ziiSJLOTRp6O6DtIl4cZ --open"
+  }
+}
